@@ -1,0 +1,4 @@
+prefix: "foobar-s01e"
+urls:
+  "01": "http://www.dailymotion.com/video/foo"
+  "01": "http://www.dailymotion.com/video/bar"
