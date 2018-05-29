@@ -19,5 +19,5 @@ urls:
 # use download.yml, create a directory "download"
 gulp yaml
 # use example.yml, create a directory "example"
-gulp yaml --yaml some_yaml.yml
+gulp yaml --yaml example.yml
 ```
